@@ -13,7 +13,7 @@
     float: left;
 }
 ul a {
-    color: white;
+    color: #222;
     text-decoration: none;
     border-bottom: 2px solid white;   
     display: inline-block;
@@ -25,7 +25,7 @@ main {
     padding: 20px;
 }
 footer {
-    background-color: black;
+    background-color: black;    
     color: white;
     padding: 20px;
     text-align: center;
